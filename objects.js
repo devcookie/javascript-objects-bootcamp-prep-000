@@ -1,5 +1,5 @@
 var playlist = {
-  'Slowdive': 'Alison'
+  Slowdive: 'Alison'
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
@@ -10,5 +10,3 @@ function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName
   return playlist
 }
-
-removeFromPlaylist(playlist, 'Slowdive')
