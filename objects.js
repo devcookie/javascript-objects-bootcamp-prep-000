@@ -1,5 +1,5 @@
 var playlist = {
-  'REM': 'Orange Crush',
+  'REM': 'Orange Crush'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
