@@ -1,4 +1,4 @@
-var playlist = {
+const playlist = {
   'Slowdive': 'Alison'
 }
 
